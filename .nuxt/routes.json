@@ -2,80 +2,93 @@
   {
     "name": "demo",
     "path": "/demo",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\index.vue",
-    "chunkName": "pages/demo/index"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo\\\\index.vue",
+    "chunkName": "pages/demo/index",
+    "_name": "_3d0d3dcf"
   },
   {
     "path": "/user",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\user.vue",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\user.vue",
     "chunkName": "pages/user",
     "children": [
       {
         "name": "user",
         "path": "",
-        "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\user\\\\index.vue",
-        "chunkName": "pages/user/index"
+        "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\user\\\\index.vue",
+        "chunkName": "pages/user/index",
+        "_name": "_31bd0ee7"
       },
       {
         "name": "user-id",
         "path": ":id",
-        "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\user\\\\_id.vue",
-        "chunkName": "pages/user/_id"
+        "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\user\\\\_id.vue",
+        "chunkName": "pages/user/_id",
+        "_name": "_5980c1e2"
       }
-    ]
+    ],
+    "_name": "_1373fd3b"
   },
   {
     "name": "demo-one",
     "path": "/demo/one",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\one\\\\index.vue",
-    "chunkName": "pages/demo/one/index"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo\\\\one\\\\index.vue",
+    "chunkName": "pages/demo/one/index",
+    "_name": "_2ae1b87f"
   },
   {
     "name": "demo-three",
     "path": "/demo/three",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\three.vue",
-    "chunkName": "pages/demo/three"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo\\\\three.vue",
+    "chunkName": "pages/demo/three",
+    "_name": "_1042749b"
   },
   {
     "name": "demo-two",
     "path": "/demo/two",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\two.vue",
-    "chunkName": "pages/demo/two"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo\\\\two.vue",
+    "chunkName": "pages/demo/two",
+    "_name": "_6affc0ee"
   },
   {
     "name": "demo2-list",
     "path": "/demo2/list",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list.vue",
-    "chunkName": "pages/demo2/list"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo2\\\\list.vue",
+    "chunkName": "pages/demo2/list",
+    "_name": "_cf12df66"
   },
   {
     "name": "demo2-list2",
     "path": "/demo2/list2",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list2.vue",
-    "chunkName": "pages/demo2/list2"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo2\\\\list2.vue",
+    "chunkName": "pages/demo2/list2",
+    "_name": "_767322b5"
   },
   {
     "name": "demo2-list3",
     "path": "/demo2/list3",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list3.vue",
-    "chunkName": "pages/demo2/list3"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo2\\\\list3.vue",
+    "chunkName": "pages/demo2/list3",
+    "_name": "_76813a36"
   },
   {
     "name": "demo2-list4",
     "path": "/demo2/list4",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list4.vue",
-    "chunkName": "pages/demo2/list4"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo2\\\\list4.vue",
+    "chunkName": "pages/demo2/list4",
+    "_name": "_768f51b7"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_194d7112"
   },
   {
     "name": "demo-one-id",
     "path": "/demo/one/:id",
-    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\one\\\\_id.vue",
-    "chunkName": "pages/demo/one/_id"
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\3.study_demo2_shop\\\\2.nuxt_buyer\\\\pages\\\\demo\\\\one\\\\_id.vue",
+    "chunkName": "pages/demo/one/_id",
+    "_name": "_4031cea7"
   }
 ]
