@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{334:function(n,e,r){"use strict";r.r(e);var t={name:"user"},l=r(51),component=Object(l.a)(t,(function(){var n,e=this,r=e._self._c;return r("div",[r("div",[e._v("这是User-id页面"+e._s(null===(n=this.$route.params)||void 0===n?void 0:n.id))])])}),[],!1,null,null,null);e.default=component.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{337:function(n,e,t){"use strict";t.r(e);var o={name:"demoPage"},l=t(51),component=Object(l.a)(o,(function(){return(0,this._self._c)("div",[this._v("这个是TwoPage")])}),[],!1,null,null,null);e.default=component.exports}}]);
