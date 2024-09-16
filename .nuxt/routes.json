@@ -1,0 +1,81 @@
+[
+  {
+    "name": "demo",
+    "path": "/demo",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\index.vue",
+    "chunkName": "pages/demo/index"
+  },
+  {
+    "path": "/user",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "children": [
+      {
+        "name": "user",
+        "path": "",
+        "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\user\\\\index.vue",
+        "chunkName": "pages/user/index"
+      },
+      {
+        "name": "user-id",
+        "path": ":id",
+        "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\user\\\\_id.vue",
+        "chunkName": "pages/user/_id"
+      }
+    ]
+  },
+  {
+    "name": "demo-one",
+    "path": "/demo/one",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\one\\\\index.vue",
+    "chunkName": "pages/demo/one/index"
+  },
+  {
+    "name": "demo-three",
+    "path": "/demo/three",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\three.vue",
+    "chunkName": "pages/demo/three"
+  },
+  {
+    "name": "demo-two",
+    "path": "/demo/two",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\two.vue",
+    "chunkName": "pages/demo/two"
+  },
+  {
+    "name": "demo2-list",
+    "path": "/demo2/list",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list.vue",
+    "chunkName": "pages/demo2/list"
+  },
+  {
+    "name": "demo2-list2",
+    "path": "/demo2/list2",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list2.vue",
+    "chunkName": "pages/demo2/list2"
+  },
+  {
+    "name": "demo2-list3",
+    "path": "/demo2/list3",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list3.vue",
+    "chunkName": "pages/demo2/list3"
+  },
+  {
+    "name": "demo2-list4",
+    "path": "/demo2/list4",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo2\\\\list4.vue",
+    "chunkName": "pages/demo2/list4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "demo-one-id",
+    "path": "/demo/one/:id",
+    "component": "D:\\\\Users\\\\编程工作台\\\\项目工作台\\\\study-notes\\\\6.学习新技术栈\\\\2.Nuxt.js服务端渲染(测试项目)\\\\1.study_demo2\\\\pages\\\\demo\\\\one\\\\_id.vue",
+    "chunkName": "pages/demo/one/_id"
+  }
+]
