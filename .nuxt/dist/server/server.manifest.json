@@ -1,39 +1,13 @@
 {
   "entry": "server.js",
   "files": {
-    "components/nuxt-logo.js": "components/nuxt-logo.js",
-    "components/tutorial.js": "components/tutorial.js",
-    "pages/demo/index.js": "pages/demo/index.js",
-    "pages/demo/one/_id.js": "pages/demo/one/_id.js",
-    "pages/demo/one/index.js": "pages/demo/one/index.js",
-    "pages/demo/three.js": "pages/demo/three.js",
-    "pages/demo/two.js": "pages/demo/two.js",
-    "pages/demo2/list.js": "pages/demo2/list.js",
-    "pages/demo2/list2.js": "pages/demo2/list2.js",
-    "pages/demo2/list3.js": "pages/demo2/list3.js",
-    "pages/demo2/list4.js": "pages/demo2/list4.js",
-    "pages/index.js": "pages/index.js",
-    "pages/user.js": "pages/user.js",
-    "pages/user/_id.js": "pages/user/_id.js",
-    "pages/user/index.js": "pages/user/index.js",
+    "components/loading.js": "components/loading.js",
+    "components/map-region.js": "components/map-region.js",
     "server.js": "server.js"
   },
   "maps": {
-    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
-    "components/tutorial.js": "components/tutorial.js.map",
-    "pages/demo/index.js": "pages/demo/index.js.map",
-    "pages/demo/one/_id.js": "pages/demo/one/_id.js.map",
-    "pages/demo/one/index.js": "pages/demo/one/index.js.map",
-    "pages/demo/three.js": "pages/demo/three.js.map",
-    "pages/demo/two.js": "pages/demo/two.js.map",
-    "pages/demo2/list.js": "pages/demo2/list.js.map",
-    "pages/demo2/list2.js": "pages/demo2/list2.js.map",
-    "pages/demo2/list3.js": "pages/demo2/list3.js.map",
-    "pages/demo2/list4.js": "pages/demo2/list4.js.map",
-    "pages/index.js": "pages/index.js.map",
-    "pages/user.js": "pages/user.js.map",
-    "pages/user/_id.js": "pages/user/_id.js.map",
-    "pages/user/index.js": "pages/user/index.js.map",
+    "components/loading.js": "components/loading.js.map",
+    "components/map-region.js": "components/map-region.js.map",
     "server.js": "server.js.map"
   }
 }

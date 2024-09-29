@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{341:function(n,t,e){"use strict";e.r(t);var l={name:"list4"},c=e(51),component=Object(c.a)(l,(function(){this._self._c;return this._m(0)}),[function(){var n=this,t=n._self._c;return t("div",[n._v("这个是List3Page  "),t("div",[n._v("333")])])}],!1,null,null,null);t.default=component.exports}}]);

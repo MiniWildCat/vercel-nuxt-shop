@@ -1,19 +1,26 @@
+import { resolve } from 'path'
+
 export default {
+
+  alias: {
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   server: {
     port: 3000,
     host: '0.0.0.0',
     // 'Access-Control-Allow-Origin': '*', // 允许跨域
   },
+
   head: {
-    title: 'study_demo',
+    title: 'lilishop_nuxt',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: '商城，卖衣服，卖鞋子的商城，反正商品都卖，你想要的商品我们几乎全都有' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
@@ -21,19 +28,33 @@ export default {
     ]
   },
 
+  env: {
+    API_DEV: {
+      common: "https://common-api.pickmall.cn",
+      buyer: "https://buyer-api.pickmall.cn",
+      seller: "https://store-api.pickmall.cn",
+      manager: "https://admin-api.pickmall.cn"
+    },
+    API_PROD: {
+      common: "https://common-api.pickmall.cn",
+      buyer: "https://buyer-api.pickmall.cn",
+      seller: "https://store-api.pickmall.cn",
+      manager: "https://admin-api.pickmall.cn"
+    },
+  },
+
+
   // Global CSS: https://go.nuxtjs.dev/config-css'base',
   css: [
-    '@/static/css/global.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    // '@/router/index.js'
-   '@/api/indexManagement.js'
+    '@/plugins/main.js'
   ],
 
   // 配置自定义加载器的文件
-  loading: '@/components/loading.vue',
+  // loading: '@/components/loading.vue',
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -47,12 +68,13 @@ export default {
     '@nuxtjs/style-resources',
     'cookie-universal-nuxt',
     '@nuxtjs/axios',
+    '@nuxtjs/router',
     '@femessage/nuxt-micro-frontend' , // qiankun
   ],
-  
+
   styleResources: {
-    less: [
-      './static/less/variable.less'
+    scss: [
+      `@/assets/styles/global.scss`
     ]
   },
 
@@ -62,12 +84,12 @@ export default {
 
   serverMiddleware: [
     // Simple usage
-    '~middleware/cors.js'
   ],
-  
-  router: {
-    // middleware: 'auth',
-    base :'/',
-    mode: 'history'
-  }
+
+  // router: {
+  //   middleware: 'auth',
+  // //   base :'/',
+  // //   mode: 'history'
+  // }
+
 }

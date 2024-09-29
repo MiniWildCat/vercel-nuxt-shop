@@ -202,7 +202,7 @@ export async function setContext (app, context) {
       payload: context.payload,
       error: context.error,
       base: app.router.options.base,
-      env: {}
+      env: {"API_DEV":{"common":"https://common-api.pickmall.cn","buyer":"https://buyer-api.pickmall.cn","seller":"https://store-api.pickmall.cn","manager":"https://admin-api.pickmall.cn"},"API_PROD":{"common":"https://common-api.pickmall.cn","buyer":"https://buyer-api.pickmall.cn","seller":"https://store-api.pickmall.cn","manager":"https://admin-api.pickmall.cn"}}
     }
     // Only set once
 

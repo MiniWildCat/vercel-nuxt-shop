@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{339:function(n,t,e){"use strict";e.r(t);var l={name:"list2"},c=e(51),component=Object(c.a)(l,(function(){return(0,this._self._c)("div",[this._v("这个是List2Page")])}),[],!1,null,null,null);t.default=component.exports}}]);

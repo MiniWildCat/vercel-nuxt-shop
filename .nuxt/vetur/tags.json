@@ -1,11 +1,134 @@
 {
+  "Global": {
+    "description": "Auto imported from components/global.js"
+  },
   "Loading": {
     "description": "Auto imported from components/loading.vue"
   },
-  "NuxtLogo": {
-    "description": "Auto imported from components/NuxtLogo.vue"
+  "Search": {
+    "description": "Auto imported from components/Search.vue"
   },
-  "Tutorial": {
-    "description": "Auto imported from components/Tutorial.vue"
+  "AddressManage": {
+    "description": "Auto imported from components/addressManage/index.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/card/index.vue"
+  },
+  "AdvertisingFixedTop": {
+    "description": "Auto imported from components/advertising/FixedTop.vue"
+  },
+  "DrawerConfig": {
+    "description": "Auto imported from components/drawer/config.js"
+  },
+  "Drawer": {
+    "description": "Auto imported from components/drawer/Drawer.vue"
+  },
+  "DrawerMain": {
+    "description": "Auto imported from components/drawer/Main.vue"
+  },
+  "Fixed": {
+    "description": "Auto imported from components/fixed/index.vue"
+  },
+  "EmptyMain": {
+    "description": "Auto imported from components/empty/Main.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "GoodsDetailPromotion": {
+    "description": "Auto imported from components/goodsDetail/Promotion.vue"
+  },
+  "GoodsDetailShowGoods": {
+    "description": "Auto imported from components/goodsDetail/ShowGoods.vue"
+  },
+  "GoodsDetailShowGoodsDetail": {
+    "description": "Auto imported from components/goodsDetail/ShowGoodsDetail.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/header/Header.vue"
+  },
+  "HeaderHoverSearch": {
+    "description": "Auto imported from components/header/hoverSearch.vue"
+  },
+  "IndexDecorateModelForm": {
+    "description": "Auto imported from components/indexDecorate/ModelForm.vue"
+  },
+  "IndexDecorateModelFormItem": {
+    "description": "Auto imported from components/indexDecorate/ModelFormItem.vue"
+  },
+  "InvoiceModal": {
+    "description": "Auto imported from components/invoiceModal/index.vue"
+  },
+  "Map": {
+    "description": "Auto imported from components/map/index.vue"
+  },
+  "MapMultipleMap": {
+    "description": "Auto imported from components/map/multiple-map.vue"
+  },
+  "MapRegion": {
+    "description": "Auto imported from components/map/region.vue"
+  },
+  "MixesTalkIm": {
+    "description": "Auto imported from components/mixes/talkIm.vue"
+  },
+  "NavCateNav": {
+    "description": "Auto imported from components/nav/CateNav.vue"
+  },
+  "NavGoodsClassNav": {
+    "description": "Auto imported from components/nav/GoodsClassNav.vue"
+  },
+  "MvCountDown": {
+    "description": "Auto imported from components/MvCountDown/index.vue"
+  },
+  "PicZoom": {
+    "description": "Auto imported from components/PicZoom/index.vue"
+  },
+  "Verify": {
+    "description": "Auto imported from components/verify/index.vue"
+  },
+  "IndexDecorateModelListCarousel": {
+    "description": "Auto imported from components/indexDecorate/modelList/Carousel.vue"
+  },
+  "IndexDecorateModelListCarousel1": {
+    "description": "Auto imported from components/indexDecorate/modelList/Carousel1.vue"
+  },
+  "IndexDecorateModelListCarousel2": {
+    "description": "Auto imported from components/indexDecorate/modelList/Carousel2.vue"
+  },
+  "IndexDecorateModelListFirstPageAdvert": {
+    "description": "Auto imported from components/indexDecorate/modelList/FirstPageAdvert.vue"
+  },
+  "IndexDecorateModelListForYour": {
+    "description": "Auto imported from components/indexDecorate/modelList/forYour.vue"
+  },
+  "IndexDecorateModelListGoodsAndType": {
+    "description": "Auto imported from components/indexDecorate/modelList/goodsAndType.vue"
+  },
+  "IndexDecorateModelListMixModel": {
+    "description": "Auto imported from components/indexDecorate/modelList/mixModel.vue"
+  },
+  "IndexDecorateModelListNewGoodsSort": {
+    "description": "Auto imported from components/indexDecorate/modelList/NewGoodsSort.vue"
+  },
+  "IndexDecorateModelListNotEnough": {
+    "description": "Auto imported from components/indexDecorate/modelList/NotEnough.vue"
+  },
+  "IndexDecorateModelListOneRowThreeColumns": {
+    "description": "Auto imported from components/indexDecorate/modelList/oneRowThreeColumns.vue"
+  },
+  "IndexDecorateModelListOnlyGoodsModel": {
+    "description": "Auto imported from components/indexDecorate/modelList/onlyGoodsModel.vue"
+  },
+  "IndexDecorateModelListRecommend": {
+    "description": "Auto imported from components/indexDecorate/modelList/Recommend.vue"
+  },
+  "IndexDecorateModelListSeckill": {
+    "description": "Auto imported from components/indexDecorate/modelList/Seckill.vue"
+  },
+  "IndexDecorateModelListMixsMixBrand": {
+    "description": "Auto imported from components/indexDecorate/modelList/mixs/mix-brand.vue"
+  },
+  "IndexDecorateModelListMixsMixGoods": {
+    "description": "Auto imported from components/indexDecorate/modelList/mixs/mix-goods.vue"
   }
 }

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{333:function(n,e,t){"use strict";t.r(e);var r={name:"user"},c=t(51),component=Object(c.a)(r,(function(){this._self._c;return this._m(0)}),[function(){var n=this._self._c;return n("div",[n("div",[this._v("这是User-index页面")])])}],!1,null,null,null);e.default=component.exports}}]);

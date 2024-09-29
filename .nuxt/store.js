@@ -8,14 +8,15 @@ const VUEX_PROPERTIES = ['state', 'getters', 'actions', 'mutations']
 let store = {};
 
 (function updateModules () {
-  store = normalizeRoot(require('..\\store\\index.js'), 'store/index.js')
-
   // If store is an exported method = classic mode (deprecated)
 
   // Enforce store modules
   store.modules = store.modules || {}
 
-  resolveStoreModules(require('..\\store\\user.js'), 'user.js')
+  resolveStoreModules(require('..\\store\\actions.js'), 'actions.js')
+  resolveStoreModules(require('..\\store\\getters.js'), 'getters.js')
+  resolveStoreModules(require('..\\store\\mutations.js'), 'mutations.js')
+  resolveStoreModules(require('..\\store\\state.js'), 'state.js')
 
   // If the environment supports hot reloading...
 })()

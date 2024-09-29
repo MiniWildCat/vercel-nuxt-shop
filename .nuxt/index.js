@@ -14,9 +14,10 @@ import { createStore } from './store.js'
 /* Plugins */
 
 import nuxt_plugin_plugin_0ab1f595 from 'nuxt_plugin_plugin_0ab1f595' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_router_57595d12 from 'nuxt_plugin_router_57595d12' // Source: .\\router.js (mode: 'all')
 import nuxt_plugin_axios_74a56138 from 'nuxt_plugin_axios_74a56138' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_cookieuniversalnuxt_01e590e0 from 'nuxt_plugin_cookieuniversalnuxt_01e590e0' // Source: .\\cookie-universal-nuxt.js (mode: 'all')
-import nuxt_plugin_indexManagement_e06ef448 from 'nuxt_plugin_indexManagement_e06ef448' // Source: ..\\api\\indexManagement.js (mode: 'all')
+import nuxt_plugin_main_e199c5ac from 'nuxt_plugin_main_e199c5ac' // Source: ..\\plugins\\main.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -84,7 +85,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"study_demo","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
+    head: {"title":"lilishop_nuxt","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"商城，卖衣服，卖鞋子的商城，反正商品都卖，你想要的商品我们几乎全都有"},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
 
     store,
     router,
@@ -220,6 +221,10 @@ async function createApp(ssrContext, config = {}) {
     await nuxt_plugin_plugin_0ab1f595(app.context, inject)
   }
 
+  if (typeof nuxt_plugin_router_57595d12 === 'function') {
+    await nuxt_plugin_router_57595d12(app.context, inject)
+  }
+
   if (typeof nuxt_plugin_axios_74a56138 === 'function') {
     await nuxt_plugin_axios_74a56138(app.context, inject)
   }
@@ -228,8 +233,8 @@ async function createApp(ssrContext, config = {}) {
     await nuxt_plugin_cookieuniversalnuxt_01e590e0(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_indexManagement_e06ef448 === 'function') {
-    await nuxt_plugin_indexManagement_e06ef448(app.context, inject)
+  if (typeof nuxt_plugin_main_e199c5ac === 'function') {
+    await nuxt_plugin_main_e199c5ac(app.context, inject)
   }
 
   // Lock enablePreview in context
