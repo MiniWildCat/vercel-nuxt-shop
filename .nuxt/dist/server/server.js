@@ -30394,10 +30394,10 @@ __webpack_require__.d(components_namespaceObject, "HeaderHoverSearch", function(
 __webpack_require__.d(components_namespaceObject, "IndexDecorateModelForm", function() { return IndexDecorateModelForm; });
 __webpack_require__.d(components_namespaceObject, "IndexDecorateModelFormItem", function() { return IndexDecorateModelFormItem; });
 __webpack_require__.d(components_namespaceObject, "InvoiceModal", function() { return InvoiceModal; });
+__webpack_require__.d(components_namespaceObject, "MixesTalkIm", function() { return MixesTalkIm; });
 __webpack_require__.d(components_namespaceObject, "Map", function() { return Map; });
 __webpack_require__.d(components_namespaceObject, "MapMultipleMap", function() { return MapMultipleMap; });
 __webpack_require__.d(components_namespaceObject, "MapRegion", function() { return MapRegion; });
-__webpack_require__.d(components_namespaceObject, "MixesTalkIm", function() { return MixesTalkIm; });
 __webpack_require__.d(components_namespaceObject, "MvCountDown", function() { return MvCountDown; });
 __webpack_require__.d(components_namespaceObject, "NavCateNav", function() { return NavCateNav; });
 __webpack_require__.d(components_namespaceObject, "NavGoodsClassNav", function() { return NavGoodsClassNav; });
@@ -31913,10 +31913,10 @@ const HeaderHoverSearch = () => Promise.resolve(/* import() */).then(__webpack_r
 const IndexDecorateModelForm = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)).then(c => wrapFunctional(c.default || c));
 const IndexDecorateModelFormItem = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 150)).then(c => wrapFunctional(c.default || c));
 const InvoiceModal = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 42)).then(c => wrapFunctional(c.default || c));
+const MixesTalkIm = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 36)).then(c => wrapFunctional(c.default || c));
 const Map = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 170)).then(c => wrapFunctional(c.default || c));
 const MapMultipleMap = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 26)).then(c => wrapFunctional(c.default || c));
 const MapRegion = () => __webpack_require__.e(/* import() | components/map-region */ 2).then(__webpack_require__.bind(null, 403)).then(c => wrapFunctional(c.default || c));
-const MixesTalkIm = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 36)).then(c => wrapFunctional(c.default || c));
 const MvCountDown = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 44)).then(c => wrapFunctional(c.default || c));
 const NavCateNav = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 174)).then(c => wrapFunctional(c.default || c));
 const NavGoodsClassNav = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 167)).then(c => wrapFunctional(c.default || c));

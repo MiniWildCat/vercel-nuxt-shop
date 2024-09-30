@@ -59,6 +59,9 @@
   "InvoiceModal": {
     "description": "Auto imported from components/invoiceModal/index.vue"
   },
+  "MixesTalkIm": {
+    "description": "Auto imported from components/mixes/talkIm.vue"
+  },
   "Map": {
     "description": "Auto imported from components/map/index.vue"
   },
@@ -67,9 +70,6 @@
   },
   "MapRegion": {
     "description": "Auto imported from components/map/region.vue"
-  },
-  "MixesTalkIm": {
-    "description": "Auto imported from components/mixes/talkIm.vue"
   },
   "MvCountDown": {
     "description": "Auto imported from components/MvCountDown/index.vue"
