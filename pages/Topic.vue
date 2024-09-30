@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Index from './Index.vue'
+import Index from '@/pages/Index.vue'
 import { getTopicData } from '@/api/index'
 export default {
   data() {

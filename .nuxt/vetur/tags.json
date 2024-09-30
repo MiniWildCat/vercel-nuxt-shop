@@ -11,11 +11,17 @@
   "AddressManage": {
     "description": "Auto imported from components/addressManage/index.vue"
   },
+  "Card": {
+    "description": "Auto imported from components/card/index.vue"
+  },
   "AdvertisingFixedTop": {
     "description": "Auto imported from components/advertising/FixedTop.vue"
   },
-  "Card": {
-    "description": "Auto imported from components/card/index.vue"
+  "EmptyMain": {
+    "description": "Auto imported from components/empty/Main.vue"
+  },
+  "Fixed": {
+    "description": "Auto imported from components/fixed/index.vue"
   },
   "DrawerConfig": {
     "description": "Auto imported from components/drawer/config.js"
@@ -25,12 +31,6 @@
   },
   "DrawerMain": {
     "description": "Auto imported from components/drawer/Main.vue"
-  },
-  "EmptyMain": {
-    "description": "Auto imported from components/empty/Main.vue"
-  },
-  "Fixed": {
-    "description": "Auto imported from components/fixed/index.vue"
   },
   "Footer": {
     "description": "Auto imported from components/footer/Footer.vue"
@@ -59,9 +59,6 @@
   "InvoiceModal": {
     "description": "Auto imported from components/invoiceModal/index.vue"
   },
-  "MixesTalkIm": {
-    "description": "Auto imported from components/mixes/talkIm.vue"
-  },
   "Map": {
     "description": "Auto imported from components/map/index.vue"
   },
@@ -70,6 +67,9 @@
   },
   "MapRegion": {
     "description": "Auto imported from components/map/region.vue"
+  },
+  "MixesTalkIm": {
+    "description": "Auto imported from components/mixes/talkIm.vue"
   },
   "MvCountDown": {
     "description": "Auto imported from components/MvCountDown/index.vue"

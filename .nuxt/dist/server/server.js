@@ -16272,8 +16272,8 @@ var Main_component = Object(componentNormalizer["a" /* default */])(
 )
 
 /* harmony default export */ var home_Main = (Main_component.exports);
-// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/Topic.vue?vue&type=template&id=0bb37d01&scoped=true
-var Topicvue_type_template_id_0bb37d01_scoped_true_render = function render() {
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/Topic.vue?vue&type=template&id=57aa3208&scoped=true
+var Topicvue_type_template_id_57aa3208_scoped_true_render = function render() {
   var _vm = this,
     _c = _vm._self._c;
   return _vm.pageData ? _c('div', [_c('Index', {
@@ -16282,9 +16282,9 @@ var Topicvue_type_template_id_0bb37d01_scoped_true_render = function render() {
     }
   })], 1) : _vm._e();
 };
-var Topicvue_type_template_id_0bb37d01_scoped_true_staticRenderFns = [];
+var Topicvue_type_template_id_57aa3208_scoped_true_staticRenderFns = [];
 
-// CONCATENATED MODULE: ./pages/Topic.vue?vue&type=template&id=0bb37d01&scoped=true
+// CONCATENATED MODULE: ./pages/Topic.vue?vue&type=template&id=57aa3208&scoped=true
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/Topic.vue?vue&type=script&lang=js
 
@@ -16337,11 +16337,11 @@ function Topic_injectStyles (context) {
 
 var Topic_component = Object(componentNormalizer["a" /* default */])(
   pages_Topicvue_type_script_lang_js,
-  Topicvue_type_template_id_0bb37d01_scoped_true_render,
-  Topicvue_type_template_id_0bb37d01_scoped_true_staticRenderFns,
+  Topicvue_type_template_id_57aa3208_scoped_true_render,
+  Topicvue_type_template_id_57aa3208_scoped_true_staticRenderFns,
   false,
   Topic_injectStyles,
-  "0bb37d01",
+  "57aa3208",
   "cb378c7e"
   
 )
@@ -30378,13 +30378,13 @@ __webpack_require__.d(components_namespaceObject, "Global", function() { return 
 __webpack_require__.d(components_namespaceObject, "Loading", function() { return Loading; });
 __webpack_require__.d(components_namespaceObject, "Search", function() { return Search; });
 __webpack_require__.d(components_namespaceObject, "AddressManage", function() { return AddressManage; });
-__webpack_require__.d(components_namespaceObject, "AdvertisingFixedTop", function() { return AdvertisingFixedTop; });
 __webpack_require__.d(components_namespaceObject, "Card", function() { return Card; });
+__webpack_require__.d(components_namespaceObject, "AdvertisingFixedTop", function() { return AdvertisingFixedTop; });
+__webpack_require__.d(components_namespaceObject, "EmptyMain", function() { return EmptyMain; });
+__webpack_require__.d(components_namespaceObject, "Fixed", function() { return Fixed; });
 __webpack_require__.d(components_namespaceObject, "DrawerConfig", function() { return DrawerConfig; });
 __webpack_require__.d(components_namespaceObject, "Drawer", function() { return Drawer; });
 __webpack_require__.d(components_namespaceObject, "DrawerMain", function() { return DrawerMain; });
-__webpack_require__.d(components_namespaceObject, "EmptyMain", function() { return EmptyMain; });
-__webpack_require__.d(components_namespaceObject, "Fixed", function() { return Fixed; });
 __webpack_require__.d(components_namespaceObject, "Footer", function() { return Footer; });
 __webpack_require__.d(components_namespaceObject, "GoodsDetailPromotion", function() { return GoodsDetailPromotion; });
 __webpack_require__.d(components_namespaceObject, "GoodsDetailShowGoods", function() { return GoodsDetailShowGoods; });
@@ -30394,10 +30394,10 @@ __webpack_require__.d(components_namespaceObject, "HeaderHoverSearch", function(
 __webpack_require__.d(components_namespaceObject, "IndexDecorateModelForm", function() { return IndexDecorateModelForm; });
 __webpack_require__.d(components_namespaceObject, "IndexDecorateModelFormItem", function() { return IndexDecorateModelFormItem; });
 __webpack_require__.d(components_namespaceObject, "InvoiceModal", function() { return InvoiceModal; });
-__webpack_require__.d(components_namespaceObject, "MixesTalkIm", function() { return MixesTalkIm; });
 __webpack_require__.d(components_namespaceObject, "Map", function() { return Map; });
 __webpack_require__.d(components_namespaceObject, "MapMultipleMap", function() { return MapMultipleMap; });
 __webpack_require__.d(components_namespaceObject, "MapRegion", function() { return MapRegion; });
+__webpack_require__.d(components_namespaceObject, "MixesTalkIm", function() { return MixesTalkIm; });
 __webpack_require__.d(components_namespaceObject, "MvCountDown", function() { return MvCountDown; });
 __webpack_require__.d(components_namespaceObject, "NavCateNav", function() { return NavCateNav; });
 __webpack_require__.d(components_namespaceObject, "NavGoodsClassNav", function() { return NavGoodsClassNav; });
@@ -31897,13 +31897,13 @@ const Global = () => Promise.resolve(/* import() */).then(__webpack_require__.bi
 const Loading = () => __webpack_require__.e(/* import() | components/loading */ 1).then(__webpack_require__.bind(null, 402)).then(c => wrapFunctional(c.default || c));
 const Search = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 11)).then(c => wrapFunctional(c.default || c));
 const AddressManage = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 43)).then(c => wrapFunctional(c.default || c));
-const AdvertisingFixedTop = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 173)).then(c => wrapFunctional(c.default || c));
 const Card = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 8)).then(c => wrapFunctional(c.default || c));
+const AdvertisingFixedTop = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 173)).then(c => wrapFunctional(c.default || c));
+const EmptyMain = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 35)).then(c => wrapFunctional(c.default || c));
+const Fixed = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 166)).then(c => wrapFunctional(c.default || c));
 const DrawerConfig = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 149)).then(c => wrapFunctional(c.default || c));
 const Drawer = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 45)).then(c => wrapFunctional(c.default || c));
 const DrawerMain = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 171)).then(c => wrapFunctional(c.default || c));
-const EmptyMain = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 35)).then(c => wrapFunctional(c.default || c));
-const Fixed = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 166)).then(c => wrapFunctional(c.default || c));
 const Footer = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 46)).then(c => wrapFunctional(c.default || c));
 const GoodsDetailPromotion = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 34)).then(c => wrapFunctional(c.default || c));
 const GoodsDetailShowGoods = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 168)).then(c => wrapFunctional(c.default || c));
@@ -31913,10 +31913,10 @@ const HeaderHoverSearch = () => Promise.resolve(/* import() */).then(__webpack_r
 const IndexDecorateModelForm = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 32)).then(c => wrapFunctional(c.default || c));
 const IndexDecorateModelFormItem = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 150)).then(c => wrapFunctional(c.default || c));
 const InvoiceModal = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 42)).then(c => wrapFunctional(c.default || c));
-const MixesTalkIm = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 36)).then(c => wrapFunctional(c.default || c));
 const Map = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 170)).then(c => wrapFunctional(c.default || c));
 const MapMultipleMap = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 26)).then(c => wrapFunctional(c.default || c));
 const MapRegion = () => __webpack_require__.e(/* import() | components/map-region */ 2).then(__webpack_require__.bind(null, 403)).then(c => wrapFunctional(c.default || c));
+const MixesTalkIm = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 36)).then(c => wrapFunctional(c.default || c));
 const MvCountDown = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 44)).then(c => wrapFunctional(c.default || c));
 const NavCateNav = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 174)).then(c => wrapFunctional(c.default || c));
 const NavGoodsClassNav = () => Promise.resolve(/* import() */).then(__webpack_require__.bind(null, 167)).then(c => wrapFunctional(c.default || c));
