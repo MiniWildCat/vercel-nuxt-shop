@@ -11,11 +11,11 @@
   "AddressManage": {
     "description": "Auto imported from components/addressManage/index.vue"
   },
-  "Card": {
-    "description": "Auto imported from components/card/index.vue"
-  },
   "AdvertisingFixedTop": {
     "description": "Auto imported from components/advertising/FixedTop.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/card/index.vue"
   },
   "DrawerConfig": {
     "description": "Auto imported from components/drawer/config.js"
@@ -26,11 +26,11 @@
   "DrawerMain": {
     "description": "Auto imported from components/drawer/Main.vue"
   },
-  "Fixed": {
-    "description": "Auto imported from components/fixed/index.vue"
-  },
   "EmptyMain": {
     "description": "Auto imported from components/empty/Main.vue"
+  },
+  "Fixed": {
+    "description": "Auto imported from components/fixed/index.vue"
   },
   "Footer": {
     "description": "Auto imported from components/footer/Footer.vue"
@@ -71,14 +71,14 @@
   "MixesTalkIm": {
     "description": "Auto imported from components/mixes/talkIm.vue"
   },
+  "MvCountDown": {
+    "description": "Auto imported from components/MvCountDown/index.vue"
+  },
   "NavCateNav": {
     "description": "Auto imported from components/nav/CateNav.vue"
   },
   "NavGoodsClassNav": {
     "description": "Auto imported from components/nav/GoodsClassNav.vue"
-  },
-  "MvCountDown": {
-    "description": "Auto imported from components/MvCountDown/index.vue"
   },
   "PicZoom": {
     "description": "Auto imported from components/PicZoom/index.vue"
