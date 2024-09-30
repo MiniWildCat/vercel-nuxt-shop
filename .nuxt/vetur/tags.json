@@ -14,15 +14,6 @@
   "Card": {
     "description": "Auto imported from components/card/index.vue"
   },
-  "AdvertisingFixedTop": {
-    "description": "Auto imported from components/advertising/FixedTop.vue"
-  },
-  "EmptyMain": {
-    "description": "Auto imported from components/empty/Main.vue"
-  },
-  "Fixed": {
-    "description": "Auto imported from components/fixed/index.vue"
-  },
   "DrawerConfig": {
     "description": "Auto imported from components/drawer/config.js"
   },
@@ -32,8 +23,17 @@
   "DrawerMain": {
     "description": "Auto imported from components/drawer/Main.vue"
   },
+  "EmptyMain": {
+    "description": "Auto imported from components/empty/Main.vue"
+  },
+  "Fixed": {
+    "description": "Auto imported from components/fixed/index.vue"
+  },
   "Footer": {
     "description": "Auto imported from components/footer/Footer.vue"
+  },
+  "AdvertisingFixedTop": {
+    "description": "Auto imported from components/advertising/FixedTop.vue"
   },
   "GoodsDetailPromotion": {
     "description": "Auto imported from components/goodsDetail/Promotion.vue"
@@ -50,14 +50,14 @@
   "HeaderHoverSearch": {
     "description": "Auto imported from components/header/hoverSearch.vue"
   },
+  "InvoiceModal": {
+    "description": "Auto imported from components/invoiceModal/index.vue"
+  },
   "IndexDecorateModelForm": {
     "description": "Auto imported from components/indexDecorate/ModelForm.vue"
   },
   "IndexDecorateModelFormItem": {
     "description": "Auto imported from components/indexDecorate/ModelFormItem.vue"
-  },
-  "InvoiceModal": {
-    "description": "Auto imported from components/invoiceModal/index.vue"
   },
   "Map": {
     "description": "Auto imported from components/map/index.vue"
@@ -74,14 +74,14 @@
   "MvCountDown": {
     "description": "Auto imported from components/MvCountDown/index.vue"
   },
+  "PicZoom": {
+    "description": "Auto imported from components/PicZoom/index.vue"
+  },
   "NavCateNav": {
     "description": "Auto imported from components/nav/CateNav.vue"
   },
   "NavGoodsClassNav": {
     "description": "Auto imported from components/nav/GoodsClassNav.vue"
-  },
-  "PicZoom": {
-    "description": "Auto imported from components/PicZoom/index.vue"
   },
   "Verify": {
     "description": "Auto imported from components/verify/index.vue"
